@@ -1,0 +1,36 @@
+#OTU ID	16s-mock-even-insilico-v2	16s-mock-staggered-insilico-v2	190619-16S-stag-v2	190701-16S-even-v2	190701-16S-stag-v2	190711-16s-even-v2	190711-16s-stag-v2	taxonomy
+863728e1cec6befd5ba02d15baef4c36	10	1400	8409	5890	16834	2578	24493	D_0__Bacteria; D_1__Proteobacteria; D_2__Alphaproteobacteria; D_3__SAR11 clade; D_4__Clade I
+bdf18e8980906003f3978e5ee578c9ea	10	700	3792	5735	8334	2432	12003	D_0__Bacteria; D_1__Actinobacteria; D_2__Acidimicrobiia; D_3__Actinomarinales; D_4__Actinomarinaceae; D_5__Candidatus Actinomarina; D_6__uncultured marine bacterium
+2970af3e30642198ba1dfa1f304f310b	10	400	4410	6999	11207	5956	16068	D_0__Archaea; D_1__Thaumarchaeota; D_2__Nitrososphaeria; D_3__Nitrosopumilales; D_4__Nitrosopumilaceae; D_5__Candidatus Nitrosopumilus; Ambiguous_taxa
+beb8cb17f8152e488b6bc95bfcdb484f	0	400	2569	0	4548	0	6771	D_0__Bacteria; D_1__Actinobacteria; D_2__Acidimicrobiia; D_3__Actinomarinales; D_4__Actinomarinaceae; D_5__Candidatus Actinomarina; Ambiguous_taxa
+86cd70d2450e3f44f4a7c543f53008ee	10	300	1810	6772	3702	2681	5283	D_0__Bacteria; D_1__Cyanobacteria; D_2__Oxyphotobacteria; D_3__Synechococcales; D_4__Cyanobiaceae; D_5__Prochlorococcus MIT9313
+f4ad315ec51d8bee23cb39f39bc8b019	10	200	754	3458	1256	1349	1840	D_0__Bacteria; D_1__Proteobacteria; D_2__Gammaproteobacteria; D_3__SAR86 clade; D_4__Rhodobacteraceae bacterium REDSEA-S29_B10; D_5__Rhodobacteraceae bacterium REDSEA-S29_B10; D_6__Rhodobacteraceae bacterium REDSEA-S29_B10
+b8b0859fd6afcfc39c1a7e6a50415ca3	10	100	596	5078	1114	2203	1648	D_0__Bacteria; D_1__Proteobacteria; D_2__Alphaproteobacteria; D_3__Puniceispirillales; D_4__SAR116 clade; D_5__uncultured marine bacterium; D_6__uncultured marine bacterium
+0b1c2b9ed02095f223b442c9bdd35006	0	100	675	0	1227	0	1771	D_0__Bacteria; D_1__Proteobacteria; D_2__Alphaproteobacteria; D_3__Rhodospirillales; D_4__AEGEAN-169 marine group; D_5__uncultured marine bacterium; D_6__uncultured marine bacterium
+9c0fe787b120b62b93c3cb46d844d9fa	10	80	760	9322	1344	3838	1875	D_0__Bacteria; D_1__Planctomycetes; D_2__Planctomycetacia; D_3__Pirellulales; D_4__Pirellulaceae; D_5__Blastopirellula; D_6__uncultured Pirellula sp.
+0b7809b1b04598cfc5bbf6264159dde9	10	80	630	9219	1593	7025	2508	D_0__Archaea; D_1__Euryarchaeota; D_2__Thermoplasmata; D_3__Marine Group II
+20a0d2f150b3312772f5c00e54fd7baf	10	80	648	9013	1152	3889	1653	D_0__Bacteria; D_1__Bacteroidetes; D_2__Bacteroidia; D_3__Flavobacteriales; D_4__Flavobacteriaceae; D_5__NS2b marine group
+32debaa2edfdd6b9fcefff9d65ff740f	10	80	576	6288	896	2507	1309	D_0__Bacteria; D_1__Chloroflexi; D_2__Dehalococcoidia; D_3__SAR202 clade; Ambiguous_taxa; Ambiguous_taxa; Ambiguous_taxa
+ddeb7a85942593ec57e0cd5f3e06701e	0	80	613	14	976	0	1511	D_0__Bacteria; D_1__Proteobacteria; D_2__Alphaproteobacteria; D_3__Puniceispirillales; D_4__SAR116 clade
+167b5b3eeed0f9b502f7f1f245d5116c	10	60	353	5619	591	2190	749	D_0__Bacteria; D_1__Marinimicrobia (SAR406 clade); D_2__uncultured marine bacterium; D_3__uncultured marine bacterium; D_4__uncultured marine bacterium; D_5__uncultured marine bacterium; D_6__uncultured marine bacterium
+b079d9bfa3d84b0bdc2c1398d247150e	0	40	359	13	641	0	890	D_0__Bacteria; D_1__Bacteroidetes; D_2__Bacteroidia; D_3__Flavobacteriales; D_4__Flavobacteriaceae; D_5__Formosa
+c97ab403dfec27de969d1b6debc9e4fb	0	40	269	0	550	0	784	D_0__Archaea; D_1__Thaumarchaeota; D_2__Nitrososphaeria; D_3__Nitrosopumilales; D_4__Nitrosopumilaceae
+934545da41a2aaae09253aec77b18cbd	0	40	289	0	447	0	702	D_0__Bacteria; D_1__Proteobacteria; D_2__Gammaproteobacteria; D_3__Oceanospirillales; D_4__Pseudohongiellaceae; D_5__Pseudohongiella
+af221dfa5b6c65292b9eaacdbeae6b0e	0	40	219	0	356	0	538	D_0__Bacteria; D_1__Proteobacteria; D_2__Gammaproteobacteria; D_3__Cellvibrionales; D_4__Porticoccaceae; D_5__SAR92 clade
+e7e4bfdc8dfad206c1f1638a29b2f703	0	40	202	6	388	0	505	D_0__Bacteria; D_1__Bacteroidetes; D_2__Bacteroidia; D_3__Flavobacteriales; D_4__NS9 marine group; Ambiguous_taxa; Ambiguous_taxa
+339277019fe12bc3cac9b8895e27d5cc	0	40	153	0	321	0	491	D_0__Bacteria; D_1__Verrucomicrobia; D_2__Verrucomicrobiae; D_3__Opitutales; D_4__Puniceicoccaceae; D_5__MB11C04 marine group
+843d32e6b6c1caf98f73a506a167e307	0	40	129	0	240	0	373	D_0__Bacteria; D_1__Proteobacteria; D_2__Gammaproteobacteria; D_3__SAR86 clade
+73748067baf6a8d8dfd693497d93c01f	0	30	167	0	380	0	500	D_0__Bacteria; D_1__Proteobacteria; D_2__Alphaproteobacteria; D_3__Rhodobacterales; D_4__Rhodobacteraceae; D_5__uncultured
+cc1e9cc7b5d5c955b025d6e85c5bab2d	0	30	103	0	200	0	294	D_0__Bacteria; D_1__Proteobacteria; D_2__Gammaproteobacteria; D_3__SAR86 clade; Ambiguous_taxa; Ambiguous_taxa; Ambiguous_taxa
+06ad8aee2710d4b77d4121a90e32bfb7	0	20	134	0	184	0	301	D_0__Bacteria; D_1__Bacteroidetes; D_2__Bacteroidia; D_3__Flavobacteriales; D_4__Flavobacteriaceae; D_5__NS5 marine group; D_6__uncultured marine bacterium
+a2c45679733004eb45e94334e3d5094f	0	10	36	0	68	0	119	D_0__Bacteria; D_1__Proteobacteria; D_2__Gammaproteobacteria; D_3__SAR86 clade; Ambiguous_taxa; Ambiguous_taxa; Ambiguous_taxa
+3216b39d4af1de8cb3faee0adae93a2b	0	5	29	0	55	0	121	D_0__Bacteria; D_1__Proteobacteria; D_2__Alphaproteobacteria; D_3__Puniceispirillales; D_4__SAR116 clade
+86440f2600e40a23725d58e958687843	0	5	12	0	16	0	20	D_0__Bacteria; D_1__Chloroflexi; D_2__Dehalococcoidia; D_3__SAR202 clade; D_4__uncultured Chloroflexi bacterium; D_5__uncultured Chloroflexi bacterium; D_6__uncultured Chloroflexi bacterium
+0cd7ee0f8d5d3e8b81078a66eca91b24	0	0	0	201	0	0	0	D_0__Bacteria; D_1__Planctomycetes; D_2__Planctomycetacia; D_3__Pirellulales; D_4__Pirellulaceae; D_5__Blastopirellula; D_6__uncultured Pirellula sp.
+ec5ff00448c0b5c5f9dae54dd5cb8dd8	0	0	0	196	0	76	0	D_0__Bacteria; D_1__Planctomycetes; D_2__Planctomycetacia; D_3__Pirellulales; D_4__Pirellulaceae; D_5__Blastopirellula; D_6__uncultured Pirellula sp.
+d41eae36667d9cd67f0e0ccaf1a68b05	0	0	0	0	0	0	134	D_0__Bacteria; D_1__Proteobacteria; D_2__Alphaproteobacteria; D_3__SAR11 clade; D_4__Clade I
+b48b7c1eb6a9ff4123ffe0b8fda84681	0	0	0	0	0	0	116	D_0__Archaea; D_1__Thaumarchaeota; D_2__Nitrososphaeria; D_3__Nitrosopumilales; D_4__Nitrosopumilaceae; D_5__Candidatus Nitrosopumilus; Ambiguous_taxa
+8f0d50176158051a461a26536aa9d37c	0	0	0	98	0	0	0	D_0__Bacteria; D_1__Planctomycetes; D_2__Planctomycetacia; D_3__Pirellulales; D_4__Pirellulaceae; D_5__Blastopirellula; D_6__uncultured Pirellula sp.
+9500b773e54b07b2f96febe7496558fe	0	0	0	0	0	0	81	D_0__Bacteria; D_1__Actinobacteria; D_2__Acidimicrobiia; D_3__Actinomarinales; D_4__Actinomarinaceae; D_5__Candidatus Actinomarina; D_6__uncultured marine bacterium
+588253f8c914de60cbb9577946854a39	0	0	0	0	0	0	26	D_0__Bacteria; D_1__Proteobacteria; D_2__Alphaproteobacteria; D_3__SAR11 clade; D_4__Clade I; D_5__Clade Ia
+a404bf4d32831f2133794e5fe5d0a73e	0	0	7	0	4	0	0	D_0__Bacteria; D_1__Proteobacteria; D_2__Gammaproteobacteria; D_3__Thiomicrospirales; D_4__Thioglobaceae; D_5__SUP05 cluster

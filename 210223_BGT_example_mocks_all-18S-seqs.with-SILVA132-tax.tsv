@@ -1,0 +1,44 @@
+#OTU ID	18s-mock-even-insilico	18s-mock-staggered-insilico	190701-18S-even	190701-18S-stag	190711-18s-even	190711-18s-stag	190715-18s-even	taxonomy
+650557dd569e9ca81248b7e08b206a76	10	680	1366	2836	2087	2812	1091	D_0__Eukaryota; D_1__Haptophyta; D_2__Prymnesiophyceae; D_3__Prymnesiales; D_4__Chrysochromulina; D_5__uncultured eukaryote; D_6__uncultured eukaryote
+58ff3b080834d0d5d0ad00c0b93f6cdb	10	640	1639	3063	2394	2938	1247	D_0__Eukaryota; D_1__SAR; D_2__Alveolata; D_3__Protalveolata; D_4__Syndiniales; D_5__Amoebophrya; Ambiguous_taxa
+95ddb1a5dc02c1ab391aae6e833690bf	10	480	1356	1887	1368	1406	982	D_0__Eukaryota; D_1__SAR; D_2__Stramenopiles; D_3__Ochrophyta; D_6__Rhizosolenids; D_7__Guinardia; Ambiguous_taxa
+af7a31664f9299d12ba7ec7e0680e3af	0	400	0	284	0	295	0	D_0__Eukaryota; D_1__SAR; D_2__Alveolata; D_3__Dinoflagellata; D_6__Gonyaulacales; D_7__Lingulodinium; Ambiguous_taxa
+1bcb28d7facd482430a8265ec76d6049	10	320	1452	1350	1897	1344	1009	D_0__Eukaryota; D_1__SAR; D_2__Rhizaria; D_3__Cercozoa; D_6__Protaspidae; D_7__Cryothecomonas; Ambiguous_taxa
+90db2b932c90413f3f70ed66feb4b705	0	320	0	474	0	420	0	D_0__Eukaryota; D_1__SAR; D_2__Alveolata; D_3__Protalveolata; D_4__Syndiniales; D_5__Syndiniales Group II
+f1ec76ed24d2f190db8ccfc3c8829853	10	280	1189	1152	1908	1147	1054	D_0__Eukaryota; D_1__SAR; D_2__Alveolata
+1ce238932eb7a48313a0618857e5faaa	0	280	0	294	0	286	0	D_0__Eukaryota; D_1__SAR; D_2__Alveolata; D_3__Dinoflagellata; D_6__Gymnodinium clade; Ambiguous_taxa; Ambiguous_taxa
+9c0c61d274e1902f590b205b57ce2ba9	10	200	1889	1105	2597	1051	1393	D_0__Eukaryota; D_1__SAR; D_2__Rhizaria; D_3__Retaria; D_4__RAD B; Ambiguous_taxa; Ambiguous_taxa
+587f06540735b3a03a706a18ac60ca8a	10	200	1257	704	1796	785	1032	D_0__Eukaryota; D_1__SAR; D_2__Alveolata; D_3__Protalveolata; D_4__Syndiniales; D_5__Syndiniales Group I; D_6__uncultured eukaryote
+712f4fa7c90031ad92d65de38ac1884e	0	80	0	1351	0	1274	0	D_0__Eukaryota; D_1__SAR; D_2__Alveolata; D_3__Ciliophora; D_7__Suctoria; D_8__Acineta; Ambiguous_taxa
+3a1fbc7771604d8ea287d36c9fe4f7f5	0	54	0	262	10	243	0	D_0__Eukaryota; D_1__SAR; D_2__Stramenopiles; D_3__Ochrophyta; D_6__Rhizosolenids; D_7__Leptocylindrus; Ambiguous_taxa
+dc7a2caf1b761b17cbd869c02f679867	10	40	2300	267	3572	222	1824	D_0__Eukaryota; D_1__SAR; D_2__Alveolata; D_3__Ciliophora; D_6__Oligotrichia
+9abf374d970f1f4f252bf1bd69d09ed9	0	20	0	77	0	58	0	D_0__Eukaryota; D_1__SAR; D_2__Alveolata; D_3__Dinoflagellata; D_6__Suessiaceae; D_7__Biecheleria; Ambiguous_taxa
+a83b9e80ff224a6a8d4aff7379415189	10	4	2178	26	2700	19	1546	D_0__Eukaryota; D_1__Opisthokonta; D_2__Holozoa; D_3__Metazoa (Animalia); D_9__Copepoda; D_10__Calanoida; D_11__uncultured eukaryote
+0021da5e24a76f1d7754222e977e2c4e	10	2	2171	14	2829	0	1677	D_0__Eukaryota; D_1__SAR; D_2__Alveolata; D_3__Dinoflagellata; D_6__Gonyaulacales; D_7__Neoceratium; Ambiguous_taxa
+94b31c349d28f800ebee88012d7e8764	0	0	58	0	93	0	0	D_0__Eukaryota; D_1__SAR; D_2__Alveolata; D_3__Ciliophora; D_6__Oligotrichia
+303b0de0c4f447ae71199d964af1903d	0	0	0	0	64	0	0	D_0__Eukaryota; D_1__SAR; D_2__Alveolata; D_3__Ciliophora; D_6__Oligotrichia
+347f012ba472202c8f56e2aa60c8b951	0	0	25	0	53	0	0	D_0__Eukaryota; D_1__SAR; D_2__Alveolata; D_3__Dinoflagellata; D_5__Gymnodiniphycidae; D_6__Gyrodinium; D_7__uncultured eukaryote
+24971380575053315eaf402703bdae09	0	0	0	0	0	52	0	D_0__Eukaryota; D_1__Haptophyta; D_2__Prymnesiophyceae; D_3__Prymnesiales; D_4__Chrysochromulina; D_5__uncultured eukaryote; D_6__uncultured eukaryote
+3f450381058420d4dc4f5d48da9e619d	0	0	0	0	0	36	0	D_0__Eukaryota; D_1__SAR; D_2__Stramenopiles; D_3__Ochrophyta; D_6__Rhizosolenids; D_7__Guinardia; Ambiguous_taxa
+11bf224b1f198e55aa7984ea3961877f	0	0	0	0	0	0	36	D_0__Eukaryota; D_1__SAR; D_2__Alveolata; D_3__Dinoflagellata; D_6__Gonyaulacales; D_7__Neoceratium; Ambiguous_taxa
+9fb6544cea1e032658b07ecc75f45020	0	0	0	0	35	0	0	D_0__Eukaryota; D_1__SAR; D_2__Alveolata; D_3__Protalveolata; D_4__Syndiniales; D_5__Syndiniales Group I; D_6__uncultured eukaryote
+67031cbbbae5b061abbbb05324a18170	0	0	0	0	33	0	0	D_0__Eukaryota; D_1__Haptophyta; D_2__Prymnesiophyceae; D_3__Prymnesiales; D_4__Chrysochromulina; D_5__uncultured eukaryote; D_6__uncultured eukaryote
+2b4d900953ac4cb71ac119692cc11b37	0	0	0	0	31	0	0	D_0__Eukaryota; D_1__SAR; D_2__Rhizaria; D_3__Retaria; D_4__RAD B; Ambiguous_taxa; Ambiguous_taxa
+143094b8d92c2ebe728ef3476821022d	0	0	0	0	0	0	31	D_0__Eukaryota; D_1__SAR; D_2__Rhizaria; D_3__Retaria; D_4__RAD B; Ambiguous_taxa; Ambiguous_taxa
+81d53457cc88ca407d9356f9465a99a6	0	0	0	0	0	0	21	D_0__Eukaryota; D_1__SAR; D_2__Alveolata; D_3__Ciliophora
+a6d60f507be060d5a0f1e158f001209a	0	0	0	0	18	0	0	D_0__Eukaryota; D_1__SAR; D_2__Alveolata; D_3__Dinoflagellata
+e970a8bf5c9b76c029715a2600ddbd38	0	0	0	0	0	17	0	D_0__Eukaryota; D_1__Haptophyta; D_2__Prymnesiophyceae; D_3__Prymnesiales; D_4__Chrysochromulina
+9d06ff1fe5d4bcc6427428314839573d	0	0	0	0	0	15	0	D_0__Eukaryota; D_1__SAR; D_2__Rhizaria; D_3__Cercozoa; D_6__Protaspidae
+0fe6eb210456a91fcaf708ef38ef266c	0	0	0	0	0	14	0	D_0__Eukaryota; D_1__SAR; D_2__Rhizaria; D_3__Cercozoa; D_6__Protaspidae; D_7__Cryothecomonas
+6aa1f9343cb53f2d29adadbbc9489a65	0	0	0	0	13	0	0	D_0__Eukaryota; D_1__SAR; D_2__Rhizaria; D_3__Cercozoa; D_6__Protaspidae; D_7__Cryothecomonas
+c5c008321c3c0f58014963510712a134	0	0	0	0	13	0	0	D_0__Eukaryota; D_1__SAR; D_2__Stramenopiles; D_3__Ochrophyta
+8b5065e49268b984025e8d188ef6f267	0	0	0	0	0	0	13	D_0__Eukaryota; D_1__SAR; D_2__Alveolata; D_3__Dinoflagellata; D_6__Gonyaulacales; D_7__Neoceratium; Ambiguous_taxa
+7286b457ad67119fd9b18d6f08f17544	0	0	0	0	0	0	13	D_0__Eukaryota; D_1__SAR; D_2__Alveolata; D_3__Ciliophora
+738fdd5cced31d54f8dcec084c0efd02	0	0	0	0	0	0	13	D_0__Eukaryota; D_1__SAR; D_2__Rhizaria; D_3__Cercozoa; D_6__Protaspidae; D_7__Cryothecomonas; D_8__uncultured Rhizaria
+5e9fa4cdf604dad2647af697f9c13fbb	0	0	12	0	0	0	0	D_0__Eukaryota; D_1__SAR; D_2__Rhizaria; D_3__Retaria
+537357e47e3c63322fd49a366e7965a3	0	0	0	10	0	0	0	D_0__Eukaryota; D_1__SAR; D_2__Alveolata; D_3__Protalveolata; D_4__Syndiniales; D_5__Amoebophrya
+c262cfda9e1aeb4f3390033bc8bc64d0	0	0	0	0	10	0	0	D_0__Eukaryota; D_1__Excavata; D_2__Discoba; D_3__Jakobida; D_4__uncultured; D_5__uncultured eukaryote; D_6__uncultured eukaryote
+444178788694c8d26d44ab43e38ce3e7	0	0	0	0	0	8	0	D_0__Eukaryota; D_1__SAR; D_2__Alveolata; D_3__Dinoflagellata
+c37a3ea4daf888b4315b155dfb83a3c2	0	0	0	0	7	0	0	D_0__Eukaryota
+8541fd6caf35bd5a7ddf1f4ec5ba0a0e	0	0	5	0	0	0	0	D_0__Eukaryota; D_1__SAR; D_2__Alveolata; D_3__Protalveolata; D_4__Syndiniales; D_5__Syndiniales Group I; D_6__uncultured eukaryote
+dd4bcdcfdaf204bb78df701f7140edcf	0	0	0	0	0	4	0	D_0__Eukaryota
